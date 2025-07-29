@@ -1,6 +1,6 @@
 Hello there, I am Bazen Mekonen! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazenmekonen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazenmekonen&layout=compact&theme=dark)
 <!--
 **bazenmekonen/bazenmekonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
