@@ -1,6 +1,11 @@
 Hello there, I am Bazen Mekonen! 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazenmekonen&layout=compact&theme=dark)
+
+About Me:
+I am just a curious guy who needs to know the answers to my questions. When I'm not trying to figure out answers in my code, I am typically reading/listening to philosophy, hitting the gym, or trying to learn a new language(Count:2)
+
+
 <!--
 **bazenmekonen/bazenmekonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
